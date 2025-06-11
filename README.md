@@ -14,3 +14,24 @@ Analyzed average room rent across UK regions (2022–2023) using pandas, matplot
 
 ## Follow the Journey
 Each day I'll upload a new project or notebook here.
+
+## 📅 Day 2: City of London — Why So Expensive?
+
+Analyze 1-bedroom rental prices across local authorities in England and identify the most and least expensive areas.
+
+### 🛠️ Tools Used
+- pandas
+- matplotlib
+- seaborn
+
+### 🔍 Key Highlights
+- **City of London** shows an average rent of **£2,150/month**
+- In contrast, most other local authorities average **£700–£800/month**
+- This difference isn't an outlier statistically — it's a **true regional variation**
+
+### 📊 Visuals
+- Horizontal bar chart of top 10 most expensive areas
+- Horizontal bar chart of 10 least expensive areas
+
+
+🔗 [Code available here](./day_2_city_of_london_analysis.py)
