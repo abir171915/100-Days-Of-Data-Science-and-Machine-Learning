@@ -34,4 +34,4 @@ Analyze 1-bedroom rental prices across local authorities in England and identify
 - Horizontal bar chart of 10 least expensive areas
 
 
-🔗 [Code available here](./day_2_city_of_london_analysis.py)
+🔗 [Code available here](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_2_rent_analysis.ipynb)
