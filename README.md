@@ -15,7 +15,7 @@ Analyzed average room rent across UK regions (2022–2023) using pandas, matplot
 ## Follow the Journey
 Each day I'll upload a new project or notebook here.
 
-## 📅 Day 2: City of London — Why So Expensive?
+## 📅 Day 2: City of London, Why So Expensive???
 
 Analyze 1-bedroom rental prices across local authorities in England and identify the most and least expensive areas.
 
