@@ -59,4 +59,5 @@ Explore how the average rent in UK Local Authorities correlates with their geogr
 
 - Test R² Score: 0.7126
 
+-[Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_3_rent_analysis.ipynb)
 
