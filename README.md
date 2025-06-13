@@ -35,3 +35,28 @@ Analyze 1-bedroom rental prices across local authorities in England and identify
 
 
 🔗 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_2_rent_analysis.ipynb)
+
+📅 Day 3 — Predicting Rent Based on Distance from London
+Objective:
+Explore how the average rent in UK Local Authorities correlates with their geographic distance from Central London.
+
+🛠️ What I Did:
+Cleaned and prepared VOA 1-bedroom rental dataset
+
+Merged it with LA centroid coordinates
+
+Computed haversine distance from Central London (lon = -0.092009, lat = 51.51469)
+
+Trained a 2nd-degree Polynomial Regression to predict mean rent
+
+📊 Visualization:
+Scatter plot showing rent vs. distance from London
+
+Regression curve highlighting the non-linear relationship
+
+📈 Model Performance:
+Train R² Score: 0.7588
+
+Test R² Score: 0.7126
+
+
