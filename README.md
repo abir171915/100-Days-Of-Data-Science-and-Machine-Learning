@@ -36,7 +36,7 @@ Analyze 1-bedroom rental prices across local authorities in England and identify
 
 🔗 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_2_rent_analysis.ipynb)
 
-📅 Day 3 — Predicting Rent Based on Distance from London
+## 📅 Day 3 — Predicting Rent Based on Distance from London
 Objective:
 Explore how the average rent in UK Local Authorities correlates with their geographic distance from Central London.
 
