@@ -61,3 +61,19 @@ Explore how the average rent in UK Local Authorities correlates with their geogr
 
 🔗 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_3_rent_analysis.ipynb)
 
+## 📅 Day 4: Rent Affordability Analysis
+
+In this analysis, I introduced an **Affordability Score** for rental data in England using the formula:
+Affordability Score = Median Rent / Lower Quartile Rent
+
+🔎 **Why it matters**:  
+This score helps identify how affordable housing is across different areas — the lower the score, the more balanced and accessible the rental market might be.
+
+📌 **Key Insights**:
+- High scores indicate a wide rent gap — potentially tough for low-income renters.
+- Low scores point to areas with more uniform pricing.
+
+📊 Visualizations include:
+- Top 10 least affordable areas
+- Top 10 most affordable areas
+🔗 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_4_rent_analysis.ipynb)
