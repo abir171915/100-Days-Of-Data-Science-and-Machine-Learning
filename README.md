@@ -76,4 +76,5 @@ This score helps identify how affordable housing is across different areas — t
 📊 Visualizations include:
 - Top 10 least affordable areas
 - Top 10 most affordable areas
+
 🔗 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_4_rent_analysis.ipynb)
