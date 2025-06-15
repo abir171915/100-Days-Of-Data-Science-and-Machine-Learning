@@ -84,25 +84,24 @@ This score helps identify how affordable housing is across different areas — t
 
 🛠️ **What I Did**:
 
-Inverted the rent prediction model: instead of predicting rent, we predict distance from London using user-provided budget.
+- Inverted the rent prediction model: instead of predicting rent, we predict distance from London using user-provided budget.
 
-Trained a Polynomial Regression (degree=3) model using historical VOA rental data and calculated distances via the Haversine formula.
+- Trained a Polynomial Regression (degree=3) model using historical VOA rental data and calculated distances via the Haversine formula.
 
-Used the model to predict how far (in km) a budget would take you from London.
+- Used the model to predict how far (in km) a budget would take you from London.
 
 📊 **Visualization**:
 
-Scatter plot of rent vs. distance with a regression curve.
+- Scatter plot of rent vs. distance with a regression curve.
 
-Budget-to-distance interactive input planned for app version.
+- Budget-to-distance interactive input planned for app version.
 
 📈 Model Performance:
 
-Train R² Score: ~0.76
+- Train R² Score: ~0.70
 
-Test R² Score: ~0.71
+- Test R² Score: ~0.77
 
-Solid performance for exploratory spatial planning.
 
 💡 **Use Case**:
 This model could help relocating individuals estimate affordable zones within commuting range of London.
