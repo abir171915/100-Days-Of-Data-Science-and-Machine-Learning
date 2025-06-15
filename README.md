@@ -78,3 +78,33 @@ This score helps identify how affordable housing is across different areas — t
 - Top 10 most affordable areas
 
 🔗 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_4_rent_analysis.ipynb)
+
+## 📅 Day 5: Budget-Based Distance Prediction
+🎯 Objective: Given a user's rental budget, estimate how far from Central London they would likely need to live based on historical 1-bedroom rent data.
+
+🛠️ **What I Did**:
+
+Inverted the rent prediction model: instead of predicting rent, we predict distance from London using user-provided budget.
+
+Trained a Polynomial Regression (degree=3) model using historical VOA rental data and calculated distances via the Haversine formula.
+
+Used the model to predict how far (in km) a budget would take you from London.
+
+📊 **Visualization**:
+
+Scatter plot of rent vs. distance with a regression curve.
+
+Budget-to-distance interactive input planned for app version.
+
+📈 Model Performance:
+
+Train R² Score: ~0.76
+
+Test R² Score: ~0.71
+
+Solid performance for exploratory spatial planning.
+
+💡 **Use Case**:
+This model could help relocating individuals estimate affordable zones within commuting range of London.
+
+🔗 [Code] (https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_5_rent_analysis.ipynb)
