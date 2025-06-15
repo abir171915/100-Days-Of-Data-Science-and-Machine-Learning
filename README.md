@@ -107,4 +107,4 @@ Solid performance for exploratory spatial planning.
 💡 **Use Case**:
 This model could help relocating individuals estimate affordable zones within commuting range of London.
 
-🔗 [Code] (https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_5_rent_analysis.ipynb)
+🔗 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_5_rent_analysis.ipynb)
