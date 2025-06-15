@@ -67,10 +67,10 @@ In this analysis, I introduced an **Affordability Score** for rental data in Eng
 Affordability Score = Median Rent / Lower Quartile Rent
 
 🔎 **Why it matters**:  
-This score helps identify how affordable housing is across different areas — the lower the score, the more balanced and accessible the rental market might be.
+This score helps identify how affordable housing is across different areas, the lower the score, the more balanced and accessible the rental market might be.
 
 📌 **Key Insights**:
-- High scores indicate a wide rent gap — potentially tough for low-income renters.
+- High scores indicate a wide rent gap, potentially tough for low-income renters.
 - Low scores point to areas with more uniform pricing.
 
 📊 Visualizations include:
