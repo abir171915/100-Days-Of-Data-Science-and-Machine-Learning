@@ -107,3 +107,34 @@ This score helps identify how affordable housing is across different areas, the 
 This model could help relocating individuals estimate affordable zones within commuting range of London.
 
 🔗 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_5_rent_analysis.ipynb)
+
+## 📅 Day 6 — "Can I Afford to Live Near London?" 🏡
+Inspired by a comment from a friend, I built a simple Streamlit app that helps users find affordable areas near London based on their rent budget.
+
+💡 **Idea**
+*"If someone wants to live close to London within a specific budget, which areas should they look at?"*
+
+🛠️ **What the App Does**
+- Takes user input for monthly rent budget 💸
+
+- Uses a trained regression model to estimate how far from London they can live
+
+- Filters and recommends local authorities within that distance
+
+- Displays a simple bar chart of suggestions
+
+🧰 Tools Used
+- pandas
+- matplotlib 
+- scikit-learn
+- geopandas
+- Streamlit
+
+
+🔗 Try It Live
+Click to open Streamlit app ← [(https://100-days-of-data-science-and-machine-learning-rkq8ox3xpnnrezyc.streamlit.app/)]
+
+📁 Code
+All source code and model training are available in this repo:
+➡️ day_6_rent_distance_streamlit.py
+
