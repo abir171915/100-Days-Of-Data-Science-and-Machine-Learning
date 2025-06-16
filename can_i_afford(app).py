@@ -19,7 +19,7 @@ import streamlit as st
 # In[3]:
 
 
-gdf = gpd.read_file(r"C:\Users\abirf\OneDrive\Desktop\LAD_Dec_2021_England.geojson")
+gdf = gpd.read_file("data/LAD_Dec_2021_England.geojson")
 
 
 # In[5]:
@@ -32,7 +32,7 @@ gdf['lat'] = gdf.geometry.centroid.y
 # In[11]:
 
 
-file_path = r"C:\Users\abirf\OneDrive\Desktop\privaterentalmarketstatistics231220.xls"
+file_path = "data/privaterentalmarketstatistics231220.xls"
 
 
 # In[13]:
