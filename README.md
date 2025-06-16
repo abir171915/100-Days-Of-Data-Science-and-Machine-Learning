@@ -131,10 +131,7 @@ Inspired by a comment from a friend, I built a simple Streamlit app that helps u
 - Streamlit
 
 
-🔗 Try It Live
-Click to open Streamlit app ← [(https://100-days-of-data-science-and-machine-learning-rkq8ox3xpnnrezyc.streamlit.app/)]
+🔗 [Live app](https://100-days-of-data-science-and-machine-learning-rkq8ox3xpnnrezyc.streamlit.app/)
 
-📁 Code
-All source code and model training are available in this repo:
-➡️ day_6_rent_distance_streamlit.py
+📁 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/can_i_afford(app).py)
 
