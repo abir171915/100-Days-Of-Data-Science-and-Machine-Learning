@@ -6,3 +6,4 @@ scikit-learn
 streamlit
 geopandas
 haversine
+xlrd>=2.0.1
