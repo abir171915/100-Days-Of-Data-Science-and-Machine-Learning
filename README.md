@@ -135,3 +135,19 @@ Inspired by a comment from a friend, I built a simple Streamlit app that helps u
 
 📁 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/can_i_afford(app).py)
 
+
+## 📅 Day 7 — Comparing Air Quality: Waterloo vs Birmingham
+Today, I stepped into environmental data analysis using real-time air quality readings from OpenAQ.
+
+🛠️ **What I Did:**
+- Collected NO₂ data from two UK cities: Waterloo and Birmingham
+- Processed and cleaned timestamped pollutant readings
+- Visualized daily NO₂ trends to compare urban air quality
+
+ 🧰 **Tools Used:**
+- pandas
+- seaborn
+- datetime parsing
+
+📊 **Insight:**
+Waterloo consistently showed higher NO₂ levels than Birmingham across the recorded days, a possible signal of traffic or industrial density.
