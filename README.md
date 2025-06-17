@@ -150,4 +150,7 @@ Today, I stepped into environmental data analysis using real-time air quality re
 - datetime parsing
 
 📊 **Insight:**
+
 Waterloo consistently showed higher NO₂ levels than Birmingham across the recorded days, a possible signal of traffic or industrial density.
+
+📁 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_7_air_quality.ipynb)
