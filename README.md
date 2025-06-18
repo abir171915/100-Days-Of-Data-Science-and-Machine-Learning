@@ -154,3 +154,47 @@ Today, I stepped into environmental data analysis using real-time air quality re
 Waterloo consistently showed higher NO₂ levels than Birmingham across the recorded days, a possible signal of traffic or industrial density.
 
 📁 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_7_air_quality.ipynb)
+
+## 📅 Day 8 — Exploring Correlation Between Weather and NO₂ Levels
+
+In this project, I investigated whether weather conditions (like temperature, humidity, and wind speed) influence NO₂ pollution levels in Birmingham, UK.
+
+🔍 **Objectiv**
+Merge hourly air quality data (NO₂) with local weather data and analyze potential correlations between weather variables and pollution levels.
+
+🛠 **Tools & Libraries**
+
+- pandas for data manipulation
+
+- matplotlib & seaborn for visualization
+
+- Visual Crossing for weather data
+
+- OpenAQ for air quality data
+
+📈 **Methodology**
+
+- Filtered NO₂ values from the broader pollutant dataset
+
+- Joined with hourly weather readings via timestamp
+
+- Visualized correlations using a heatmap
+
+💡 **Key Insight**
+
+Despite expectations, there was no strong correlation found between NO₂ levels and any of the following:
+
+- Temperature
+
+- Humidity
+
+- Wind Speed
+
+This suggests that within a short time window (June 1–17), weather might not be the dominant factor influencing NO₂ pollution in this region.
+
+**Takeaway**
+
+Data science is not only about confirming assumptions, it’s about testing hypotheses. Even when the result is “no significant relationship,” that’s valuable insight for guiding future research.
+
+📁 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_8_air_quality.ipynb)
+
