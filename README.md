@@ -212,9 +212,9 @@ Today, I focused on **measures of central tendency** — the foundations of unde
 
 Choosing the right average is crucial:
 
-> 🧠 *In a neighborhood where Bill Gates lives, the mean income will be misleadingly high. But the median tells a more realistic story.*
+🧠 *In a neighborhood where Bill Gates lives, the mean income will be misleadingly high. But the median tells a more realistic story.*
 
-This concept applies to many real-world scenarios — especially in datasets with **extreme values or outliers**, like:
+This concept applies to many real-world scenarios especially in datasets with **extreme values or outliers**, like:
 - Air pollution levels
 - House prices
 - Salaries
