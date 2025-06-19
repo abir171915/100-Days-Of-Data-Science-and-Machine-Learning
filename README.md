@@ -208,7 +208,7 @@ Today, I focused on **measures of central tendency** — the foundations of unde
 - **Median** (Middle value)
 - **Mode** (Most frequent value — discussed, but not used here due to continuous data)
 
-## 📌 Why It Matters
+📌 **Why It Matters**
 
 Choosing the right average is crucial:
 
