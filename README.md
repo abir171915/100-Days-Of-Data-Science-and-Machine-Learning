@@ -198,3 +198,29 @@ Data science is not only about confirming assumptions, it’s about testing hypo
 
 📁 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_8_air_quality.ipynb)
 
+## 📅 Day 9 — Understanding Central Tendency in Data
+
+🔍 **What I Explored**
+
+Today, I focused on **measures of central tendency** — the foundations of understanding any dataset:
+
+- **Mean** (Average)
+- **Median** (Middle value)
+- **Mode** (Most frequent value — discussed, but not used here due to continuous data)
+
+## 📌 Why It Matters
+
+Choosing the right average is crucial:
+
+> 🧠 *In a neighborhood where Bill Gates lives, the mean income will be misleadingly high. But the median tells a more realistic story.*
+
+This concept applies to many real-world scenarios — especially in datasets with **extreme values or outliers**, like:
+- Air pollution levels
+- House prices
+- Salaries
+
+📊 **Key Takeaways**
+
+- Mean is sensitive to outliers  
+- Median provides a more robust measure for skewed data  
+- Mode is most helpful with categorical or discrete variables
