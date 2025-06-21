@@ -259,3 +259,5 @@ While the model performs well on accuracy, it struggles with recall for detectin
   - Adjusting class weights
   - Trying different models (Random Forest, XGBoost)
 - Tune hyperparameters and expand feature set
+
+[Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_10_fake_jobs.ipynb)
