@@ -224,3 +224,38 @@ This concept applies to many real-world scenarios especially in datasets with **
 - Mean is sensitive to outliers  
 - Median provides a more robust measure for skewed data  
 - Mode is most helpful with categorical or discrete variables
+
+## 📅 Day 10: Fake Job Post Detection (NLP + Classification)
+
+Today, I explored a real-world dataset of job postings to build a machine learning model that can identify potentially fake listings.
+
+🧠 **Objective**
+Detect fraudulent job postings using natural language processing and classification techniques.
+
+🛠️ **Tools Used**
+- Python
+- pandas, NumPy
+- scikit-learn
+- TF-IDF Vectorization
+- Logistic Regression
+
+🔍 **What I Did**
+- Cleaned the dataset and focused on key text-based features (title, description, etc.)
+- Applied TF-IDF to extract meaningful patterns from text
+- Trained a Logistic Regression model to classify job postings
+
+📈 **Results**
+- **Accuracy**: 96%
+- **Precision (fake)**: 98%
+- **Recall (fake)**: 31%
+- **F1-score (fake)**: 47%
+
+⚠️ **Key Insight**
+While the model performs well on accuracy, it struggles with recall for detecting fake job listings — meaning it misses many fraudulent cases. This is due to **class imbalance** (most job listings are legitimate).
+
+🔄 **Next Steps**
+- Improve recall using techniques like:
+  - Resampling (SMOTE, undersampling)
+  - Adjusting class weights
+  - Trying different models (Random Forest, XGBoost)
+- Tune hyperparameters and expand feature set
