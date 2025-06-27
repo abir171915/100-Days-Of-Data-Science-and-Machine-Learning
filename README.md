@@ -261,3 +261,30 @@ While the model performs well on accuracy, it struggles with recall for detectin
 - Tune hyperparameters and expand feature set
 
 [Code](https://github.com/abir171915/100-Days-Of-Data-Science-and-Machine-Learning/blob/main/day_10_fake_jobs.ipynb)
+
+## 📅 Day 13: PCA
+In this notebook, I explored Principal Component Analysis (PCA) — a powerful tool for dimensionality reduction. My goal was to simplify a dataset with multiple 
+numerical features into just two principal components to better understand the underlying structure and relationships between classes.
+
+**Tools Used**
+- Python
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+🔍 **What I Did**
+- Standardized the numerical dataset
+- Applied PCA to reduce the feature space from high dimensions to 2 components
+- Plotted the results to visualize class distributions
+- Analyzed the explained variance ratio to understand how much information is retained by the components
+
+**Key Learnings**
+- PCA helps to reduce complexity without losing much information
+- It transforms correlated features into a new set of uncorrelated axes (principal components)
+- Great for visualizing data and spotting patterns in high-dimensional space
+- PCA is unsupervised, so it doesn’t rely on labels
+
+
+
+
